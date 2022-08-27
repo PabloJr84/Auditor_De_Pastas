@@ -1,0 +1,22 @@
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\bin\Debug\Auditor.exe.config
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\bin\Debug\Auditor.exe
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\bin\Debug\Auditor.pdb
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\obj\Debug\Auditor.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\obj\Debug\Auditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\obj\Debug\Auditor.Form1.resources
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\obj\Debug\Auditor.Properties.Resources.resources
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\obj\Debug\Auditor.csproj.GenerateResource.cache
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\obj\Debug\Auditor.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\obj\Debug\Auditor.exe
+C:\Users\pablo\Documents\Evolução Digital\Auditor\Auditor\Auditor\obj\Debug\Auditor.pdb
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\bin\Debug\Auditor.exe.config
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\bin\Debug\Auditor.exe
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\bin\Debug\Auditor.pdb
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.AssemblyReference.cache
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.SuggestedBindingRedirects.cache
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.Form1.resources
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.Properties.Resources.resources
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.GenerateResource.cache
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.CoreCompileInputs.cache
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.exe
+D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.pdb
