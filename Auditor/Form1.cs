@@ -11,9 +11,9 @@ using System.IO; // Manipulação e visualisação de arquivos
 
 namespace Auditor
 {
-    public partial class Form1 : Form
+    public partial class Buscador : Form
     {
-        public Form1()
+        public Buscador()
         {
             InitializeComponent();
         }

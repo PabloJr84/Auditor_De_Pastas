@@ -1,6 +1,6 @@
 ﻿namespace Auditor
 {
-    partial class Form1
+    partial class Buscador
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -108,7 +108,7 @@
             this.Btn_Verificador.UseVisualStyleBackColor = true;
             this.Btn_Verificador.Click += new System.EventHandler(this.Btn_Verificador_Click);
             // 
-            // Form1
+            // Buscador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -120,7 +120,7 @@
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "Buscador";
             this.Text = "Auditor";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
