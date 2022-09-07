@@ -20,3 +20,15 @@ D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Audito
 D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.CoreCompileInputs.cache
 D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.exe
 D:\Users\50036490\OneDrive - ArcelorMittal\Desktop\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\bin\Debug\Auditor.exe.config
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\bin\Debug\Auditor.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\bin\Debug\Auditor.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.Buscador.resources
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.Properties.Resources.resources
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.Tela_Inicial.resources
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\Jornada CSharp\Auditor_De_Pastas-main\Auditor\obj\Debug\Auditor.pdb

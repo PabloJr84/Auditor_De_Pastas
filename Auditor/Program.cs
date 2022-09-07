@@ -16,7 +16,7 @@ namespace Auditor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Buscador());
+            Application.Run(new Tela_Inicial());
         }
     }
 }
